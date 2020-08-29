@@ -1,5 +1,5 @@
 # MIPS-processor-singlecycle
-Implementation of single cycle MIPS processor in verilog.<br />
+Implementation of single cycle MIPS processor in Verilog.<br />
 Supported instructions are: <br />
 Arithmetic/Logical instructions: add, sub, and, or, addi, andi<br />
 Memory Reference Instruction: lw, sw<br />
